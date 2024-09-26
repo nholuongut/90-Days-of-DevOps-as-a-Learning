@@ -4,13 +4,6 @@
  <img src="logo.png?raw=true" alt="90-Days-of-DevOps-as-a-Learning Logo" width="50%" height="50%" />
 </p>
 
-### [Contact an Author]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
-* [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
-
 This repository started as a way to document my journey on getting a better foundational knowledge of "DevOps". It was started on the 1st January 2022 and ran to the 31st March 2022 which is 90 Days! 
 
 What started off as a learning in public project has quickly become a structured way of learning the foundations of DevOps principles, processes and tooling. Maybe you can help contribute some resources you have found useful to the project. 
@@ -25,7 +18,14 @@ This will **not cover all things** "DevOps" but it will cover some of the areas 
 
 The project is not a sponsored operation by any vendors and everything is accessible using free, community and open source software. 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N33YRCS)
+### [Contact an Author]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 The to images below will take you to the 2022, 2023 and 2024 editions of the learning journey. 
 
