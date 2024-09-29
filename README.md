@@ -18,14 +18,11 @@ This will **not cover all things** "DevOps" but it will cover some of the areas 
 
 The project is not a sponsored operation by any vendors and everything is accessible using free, community and open source software. 
 
-### [Contact an Author]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
-* [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+![](https://i.imgur.com/waxVImv.png)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+# Roadmaps are now interactive, you can click the nodes to read more about the topics.
+
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 
 The to images below will take you to the 2022, 2023 and 2024 editions of the learning journey. 
 
@@ -71,3 +68,18 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
+
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
